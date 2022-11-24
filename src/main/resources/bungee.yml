@@ -1,0 +1,3 @@
+name: BanSystem
+version: '${project.version}'
+main: de.curse.bansys.BanSystem
